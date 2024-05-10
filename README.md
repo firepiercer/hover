@@ -6,7 +6,7 @@ Demo: https://firepiercer.github.io/hover/
 
 This project features a stylish product card with interactive hover effects that reveal additional content. The card displays product information, such as the product image, available sizes, colors, and a "Buy Now" button, which become visible when the user hovers over the card.
 
-Features
+#Features
 
 Product Card Design:
 
